@@ -1,0 +1,57 @@
+Agua
+Tenedor
+Silla
+Botella
+Perro
+Pájaro
+Reloj
+Coche
+Zapato
+Cielo
+Sol
+Computadora
+Edificio
+Árbol
+Pelota
+Estrella
+Luna
+Mar
+Oso
+Flores
+Gafas
+Teléfono
+Cuerda
+Mariposa
+Rana
+Tren
+Lápiz
+Papel
+Mapa
+Barco
+Jirafa
+Pez
+Camioneta
+Bolsa
+Montaña
+Coche de policía
+Avión
+Ratón
+Bolsillo
+Árbol de navidad
+Almohada
+Taza
+Sombrero
+Cumpleaños
+Elefante
+Guitarra
+Bolsa de compras
+Cielo estrellado
+Jardín
+Cámara
+Desierto
+Reloj de arena
+Lámpara
+Tejado
+Oso de peluche
+Flores silvestres
+Barco de vela
